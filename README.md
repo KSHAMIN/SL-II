@@ -1,2 +1,2 @@
 # SL-II
-some OS related codes
+assignment1.sh - library database management using shell scripting
