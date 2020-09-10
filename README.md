@@ -1,2 +1,2 @@
 # SL-II
-some OS relatd codes
+some OS related codes
